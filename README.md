@@ -1,5 +1,3 @@
-CS 506 Air Quality and Proximity to Transportation Project
-
 ## Project Description
 Improving air quality is a critical concern in Boston, particularly for marginalized communities that bear the brunt of its adverse effects, resulting in elevated rates of asthma and lung diseases. One potential solution to address poor air quality involves transitioning public transportation to alternative energy sources. This shift holds promise in significantly reducing harmful emissions and stabilizing air quality. However, implementing this transition is a complex undertaking due to the indispensable role transportation plays in the lives of Boston residents. 
 
